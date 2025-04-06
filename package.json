@@ -2,7 +2,7 @@
   "name": "hw-6js",
   "version": "1.0.0",
   "description": "",
-  "homepage": "",
+  "homepage": "https://pipypupa.github.io/hw-6js/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
